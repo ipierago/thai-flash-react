@@ -5,7 +5,7 @@ import _, { map } from 'underscore';
 import Summary from './components/Summary';
 import { QuizMode, Term } from './Types';
 
-var terms = require('./test-data.json');
+var terms = require('./vocabulary-data.json');
 
 enum Stage {
   Menu = 'Menu',
