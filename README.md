@@ -10,19 +10,15 @@ Run the following command to start the server:
 F5 to launch Chrome in debug mode.
 
 # How to Deploy
-
 This is how you deploy.
+    $ yarn build
+    $ firebase deploy
+    
 
 # Tools
 
-Several tools.
+The tool folder contains a tool to modify the vocabulary.  Run it by selecting the launch configuration and pressing F5.
 
 # TODO
-- merge with command line version
-- full vocabulary
-- github (name?)
-- deploy
-- pretty
-- css-in-js
-- improve algo for correct/incorrect
-- empty quiz case
+- CI
+- Bug: Transition on desktop is broken

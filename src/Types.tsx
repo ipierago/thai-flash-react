@@ -4,8 +4,3 @@ export type Term = {
   ipa: string;
   tags: string[];
 };
-
-export enum QuizMode {
-  Listen = 'Listen',
-  Speak = 'Speak',
-}

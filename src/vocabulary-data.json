@@ -2110,7 +2110,8 @@
       "journey 2",
       "chapter 4",
       "core vocab",
-      "chapter 6"
+      "chapter 6",
+      "chapter 10"
     ]
   },
   {
@@ -2615,7 +2616,11 @@
     "ipa": "aˑnaaˑkhót",
     "tags": [
       "kruu bank",
-      "9 oct 2022"
+      "9 oct 2022",
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
     ]
   },
   {
@@ -2717,7 +2722,8 @@
       "duke",
       "journey 2",
       "chapter 2",
-      "core vocab"
+      "core vocab",
+      "chapter 9"
     ]
   },
   {
@@ -2887,7 +2893,9 @@
       "journey 2",
       "chapter 2",
       "core vocab",
-      "chapter 6"
+      "chapter 6",
+      "chapter 8",
+      "word builder"
     ]
   },
   {
@@ -4376,7 +4384,11 @@
     "ipa": "sǎmˑkhan",
     "tags": [
       "kruu bank",
-      "17 oct 2022"
+      "17 oct 2022",
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
     ]
   },
   {
@@ -4446,7 +4458,11 @@
     "ipa": "khǎa",
     "tags": [
       "kruu bank",
-      "17 oct 2022"
+      "17 oct 2022",
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
     ]
   },
   {
@@ -4457,7 +4473,11 @@
     "ipa": "khɛ̌ɛn",
     "tags": [
       "kruu bank",
-      "17 oct 2022"
+      "17 oct 2022",
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
     ]
   },
   {
@@ -5095,7 +5115,8 @@
       "duke",
       "journey 2",
       "chapter 6",
-      "core vocab"
+      "core vocab",
+      "chapter 10"
     ]
   },
   {
@@ -5467,7 +5488,11 @@
     "ipa": "lày",
     "tags": [
       "kruu bank",
-      "23 oct 2022"
+      "23 oct 2022",
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
     ]
   },
   {
@@ -6459,7 +6484,10 @@
       "duke",
       "journey 1",
       "chapter 8",
-      "core vocab"
+      "core vocab",
+      "journey 2",
+      "chapter 9",
+      "word builder"
     ]
   },
   {
@@ -6873,6 +6901,1257 @@
     "ipa": "saˑwàtˑdii",
     "tags": [
       "test"
+    ]
+  },
+  {
+    "th": "เหมือน(กัน)",
+    "en": [
+      "the same (not level)"
+    ],
+    "ipa": "mʉ̌an (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "คล้าย(กัน)",
+    "en": [
+      "similar"
+    ],
+    "ipa": "khláay (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ต่าง(กัน)",
+    "en": [
+      "different"
+    ],
+    "ipa": "tàaŋ (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เท่า(กัน)",
+    "en": [
+      "at the same level"
+    ],
+    "ipa": "thâw (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "พอ(กัน)",
+    "en": [
+      "around the same level"
+    ],
+    "ipa": "phɔɔ (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เดียว(กัน)",
+    "en": [
+      "exactly the same, identical"
+    ],
+    "ipa": "diaw (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กว่า(กัน)",
+    "en": [
+      "more than"
+    ],
+    "ipa": "kwàa (kan)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ที่สุด",
+    "en": [
+      "the most"
+    ],
+    "ipa": "thîiˑsùt",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ทั้ง...เเละ",
+    "en": [
+      "both...and"
+    ],
+    "ipa": "tháŋ...lé",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "หน้าตา",
+    "en": [
+      "(face) appearance"
+    ],
+    "ipa": "nâaˑtaa",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab",
+      "chapter 10"
+    ]
+  },
+  {
+    "th": "หล่อ",
+    "en": [
+      "handsome"
+    ],
+    "ipa": "lɔ̀ɔ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สวย",
+    "en": [
+      "beautiful"
+    ],
+    "ipa": "sǔay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "น่ารัก",
+    "en": [
+      "cute,lovely"
+    ],
+    "ipa": "nâaˑrák",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เสียง",
+    "en": [
+      "voice, sound"
+    ],
+    "ipa": "sǐaŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ผม",
+    "en": [
+      "hair (on the head)"
+    ],
+    "ipa": "phǒm",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "โลก",
+    "en": [
+      "earth, world"
+    ],
+    "ipa": "lôok",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ภูเขา",
+    "en": [
+      "mountain"
+    ],
+    "ipa": "phuuˑkhǎw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ทะเล",
+    "en": [
+      "sea"
+    ],
+    "ipa": "tháˑlee",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ชีวิต",
+    "en": [
+      "life"
+    ],
+    "ipa": "chiiˑwít",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "หน้าอก",
+    "en": [
+      "chest"
+    ],
+    "ipa": "nâaˑòk",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ลํา)ตัว",
+    "en": [
+      "upper body / trunk"
+    ],
+    "ipa": "(lam)tua",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ท้อง",
+    "en": [
+      "stomach"
+    ],
+    "ipa": "thɔ́ɔŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "มือ",
+    "en": [
+      "hand"
+    ],
+    "ipa": "mʉʉ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "หัว",
+    "en": [
+      "head"
+    ],
+    "ipa": "hǔa",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เอว",
+    "en": [
+      "waist"
+    ],
+    "ipa": "eew",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ก้น",
+    "en": [
+      "bottom;buttocks;ass"
+    ],
+    "ipa": "kôn",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เท้า",
+    "en": [
+      "foot"
+    ],
+    "ipa": "tháaw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ตา",
+    "en": [
+      "eye"
+    ],
+    "ipa": "taa",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ปาก",
+    "en": [
+      "mouth"
+    ],
+    "ipa": "pàak",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "หู",
+    "en": [
+      "ear"
+    ],
+    "ipa": "hǔu",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "จมูก",
+    "en": [
+      "nose"
+    ],
+    "ipa": "caˑmùuk",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 8",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ความหมาย",
+    "en": [
+      "meaning"
+    ],
+    "ipa": "khwaamˑmǎay",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "รถชน",
+    "en": [
+      "car accident"
+    ],
+    "ipa": "rótˑchon",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "โดน",
+    "en": [
+      "[to] hit;strike;collide against"
+    ],
+    "ipa": "doon",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "บางอย่าง",
+    "en": [
+      "something"
+    ],
+    "ipa": "baaŋˑyàaŋ",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ฉลาด",
+    "en": [
+      "clever;intelligent"
+    ],
+    "ipa": "chaˑlàat",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ผ่า",
+    "en": [
+      "[to] chop"
+    ],
+    "ipa": "phàa",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "หั่น",
+    "en": [
+      "[to] cut;slice"
+    ],
+    "ipa": "hàn",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ถ้วย",
+    "en": [
+      "cup; bowl (classifier)"
+    ],
+    "ipa": "thûay",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "เวลาสั้น",
+    "en": [
+      "brief time"
+    ],
+    "ipa": "weeˑlaa sân",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ยาวนาน",
+    "en": [
+      "long time"
+    ],
+    "ipa": "yaawˑnaan",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ช่วยให้",
+    "en": [
+      "to give help"
+    ],
+    "ipa": "chûay hây",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "ลบ",
+    "en": [
+      "[to] remove;delete;take away"
+    ],
+    "ipa": "lóp",
+    "tags": [
+      "kruu bank",
+      "4 nov 2022"
+    ]
+  },
+  {
+    "th": "แล้ว",
+    "en": [
+      "already - XXX has already happened or started to happen"
+    ],
+    "ipa": "lɛ́ɛw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ยัง",
+    "en": [
+      "yet, still - XXX is still happening, hasn't started to happen yet"
+    ],
+    "ipa": "yaŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ได้",
+    "en": [
+      "get to, have done - speaker gets/got a chance to do XXX, completes XXX"
+    ],
+    "ipa": "dâay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "จะ",
+    "en": [
+      "will, intend to - XXX will happen, speaker intends to XXX"
+    ],
+    "ipa": "cà",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กำลัง... อยู่",
+    "en": [
+      "...ing - XXX is happening"
+    ],
+    "ipa": "kamˑlaŋ... yùu",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ปัจจุบัน",
+    "en": [
+      "present (current time)"
+    ],
+    "ipa": "pàtˑcùˑban",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "อดีต",
+    "en": [
+      "past"
+    ],
+    "ipa": "aˑdìit",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สักวัน",
+    "en": [
+      "someday (very far future)"
+    ],
+    "ipa": "sàkˑwan",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ทีหลัง",
+    "en": [
+      "later"
+    ],
+    "ipa": "thiiˑlǎŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เร็วๆ นี้",
+    "en": [
+      "soon"
+    ],
+    "ipa": "rew rew níi",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "อีกไม่นาน",
+    "en": [
+      "not long (from now)"
+    ],
+    "ipa": "ìikˑmâyˑnaan",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เดี๋ยวนี้",
+    "en": [
+      "right now (very close future)"
+    ],
+    "ipa": "dǐawˑníi",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เมื่อกี้",
+    "en": [
+      "just now (very close past)"
+    ],
+    "ipa": "mʉ̂aˑkîi",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ไม่นานมานี้",
+    "en": [
+      "not long ago"
+    ],
+    "ipa": "mâyˑnaan maaˑníi",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ซักพักแล้ว",
+    "en": [
+      "for a while (ago) (still going on)"
+    ],
+    "ipa": "sák phák lɛ́ɛw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เมื่อก่อน",
+    "en": [
+      "before, previously (no longer)"
+    ],
+    "ipa": "mʉ̂aˑkɔ̀ɔn",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "นานมาแล้ว",
+    "en": [
+      "long time ago"
+    ],
+    "ipa": "naanˑmaaˑlɛ́ɛw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 9",
+      "word builder"
+    ]
+  },
+  {
+    "th": "รูปร่าง",
+    "en": [
+      "shape, appearance"
+    ],
+    "ipa": "rûupˑràaŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อ้วน",
+    "en": [
+      "fat, overweight"
+    ],
+    "ipa": "ûan",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ผอม",
+    "en": [
+      "thin, slim"
+    ],
+    "ipa": "phɔ̌ɔm",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ล่ำ",
+    "en": [
+      "muscular"
+    ],
+    "ipa": "lâm",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ผิว",
+    "en": [
+      "skin"
+    ],
+    "ipa": "phǐw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "(ผิว)ขาว",
+    "en": [
+      "pale (skin)"
+    ],
+    "ipa": "(phǐw) khǎaw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "(ผิว)คล้ำ",
+    "en": [
+      "dark (skin)"
+    ],
+    "ipa": "(phǐw) khlám",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "คิ้ว",
+    "en": [
+      "eyebrow"
+    ],
+    "ipa": "khíw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "หนา",
+    "en": [
+      "thick"
+    ],
+    "ipa": "nǎa",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "(ผม)ตรง",
+    "en": [
+      "straight (hair)"
+    ],
+    "ipa": "(phǒm) troŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "(ผม)หยักโศก",
+    "en": [
+      "wavy (hair)"
+    ],
+    "ipa": "(phǒm) yàk sòok",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "หนวดเครา",
+    "en": [
+      "moustache-beard"
+    ],
+    "ipa": "nùatˑkhraw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "นิสัย",
+    "en": [
+      "personality"
+    ],
+    "ipa": "níˑsǎy",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ง่ายๆ สบายๆ",
+    "en": [
+      "down to earth, easy going"
+    ],
+    "ipa": "ŋâayˑŋâay saˑbaay saˑbaay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ตลก",
+    "en": [
+      "funny"
+    ],
+    "ipa": "taˑlòk",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใจ",
+    "en": [
+      "heart (mind)"
+    ],
+    "ipa": "cay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใจร้อน",
+    "en": [
+      "impatient"
+    ],
+    "ipa": "cayˑrɔ́ɔn",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใจเย็น",
+    "en": [
+      "calmn"
+    ],
+    "ipa": "cayˑyen",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใจดี",
+    "en": [
+      "kind, generous"
+    ],
+    "ipa": "cayˑdii",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใจร้าย",
+    "en": [
+      "cruel, uncaring"
+    ],
+    "ipa": "cayˑráay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ขี้",
+    "en": [
+      "(negative) in the habit of..., prone to"
+    ],
+    "ipa": "khîi",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อาย",
+    "en": [
+      "shy"
+    ],
+    "ipa": "aay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อิจฉา",
+    "en": [
+      "jealous"
+    ],
+    "ipa": "ìtˑchǎa",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ลืม",
+    "en": [
+      "to forget (things or actions)"
+    ],
+    "ipa": "lʉʉm",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "โมโห",
+    "en": [
+      "to get angry"
+    ],
+    "ipa": "mooˑhǒo",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กลัว",
+    "en": [
+      "to be afraid"
+    ],
+    "ipa": "klua",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ขี้เกียจ",
+    "en": [
+      "lazy"
+    ],
+    "ipa": "khîiˑkìat",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "มั่นใจ(ในตัวเอง)",
+    "en": [
+      "confident (in yourself)"
+    ],
+    "ipa": "mânˑcay (nay tuaˑeeŋ)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ขี้อาย",
+    "en": [
+      "prone to be shy"
+    ],
+    "ipa": "khîiˑaay",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ขยัน",
+    "en": [
+      "[to be] hard-working"
+    ],
+    "ipa": "khaˑyǎn",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เป็นมิตร",
+    "en": [
+      "friendly"
+    ],
+    "ipa": "penˑmít",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สุภาพ",
+    "en": [
+      "polite"
+    ],
+    "ipa": "sùˑphâap",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ตรง(ไปตรงมา)",
+    "en": [
+      "straightforward"
+    ],
+    "ipa": "troŋ (pay troŋ maa)",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เงียบๆ",
+    "en": [
+      "quiet"
+    ],
+    "ipa": "ŋîapˑŋîap",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "คุยเก่ง",
+    "en": [
+      "good talker"
+    ],
+    "ipa": "khuyˑkèŋ",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ขี้เหนียว",
+    "en": [
+      "[to be] stingy;miserly;mean"
+    ],
+    "ipa": "khîiˑnǐaw",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ซุ่มซ่าม",
+    "en": [
+      "clumsy"
+    ],
+    "ipa": "sûmˑsâam",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
+    ]
+  },
+  {
+    "th": "รอบคอบ",
+    "en": [
+      "[to] be cautious;be circumspect;be careful"
+    ],
+    "ipa": "rɔ̂ɔpˑkhɔ̂ɔp",
+    "tags": [
+      "duke",
+      "journey 2",
+      "chapter 10",
+      "word builder"
     ]
   }
 ]

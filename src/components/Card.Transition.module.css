@@ -1,0 +1,19 @@
+.enter {
+  transform: rotateY(90deg);
+  pointer-events:none;
+}
+
+.enterActive {
+  transform: rotateY(0);
+  transition: transform 500ms ease;
+}
+
+.exit {
+  transform: rotateY(0);
+  pointer-events:none;
+}
+
+.exitActive {
+  transform: rotateY(90deg);
+  transition: transform 500ms ease;
+}

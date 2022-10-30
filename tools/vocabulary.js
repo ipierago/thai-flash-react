@@ -1,7 +1,7 @@
 const fs = require('fs');
 const util = require('util');
 
-const vocabularyDataPath = '../public/vocabulary-data.json';
+const vocabularyDataPath = '../src/vocabulary-data.json';
 
 class Vocabulary {
   constructor() {}

@@ -1,79 +1,84 @@
 import { useState } from 'react';
-import Card from './Card';
-import { Term, QuizMode } from '../Types';
-import { TransitionGroup, CSSTransition } from 'react-transition-group';
-import transitionStyles from './Quiz.Transition.module.css';
+import QuizMenu from './QuizMenu';
+import QuizRun from './QuizRun';
+import QuizSummary from './QuizSummary';
+import { QuizMode } from './QuizTypes';
+import { Term } from '../Types';
+import _ from 'underscore';
 
-type QuizProps = {
-  terms: Term[];
-  quizMode: QuizMode;
-  callback: (finished: boolean, numIncorrect: number) => void;
-};
+enum Stage {
+  Menu = 'Menu',
+  Run = 'Run',
+  Summary = 'Summary',
+}
 
-function Quiz(props: QuizProps) {
-  const [terms, setTerms] = useState(props.terms);
-  const [sequence, setSequence] = useState(0);
-  const [numIncorrect, setNumIncorrect] = useState(0);
+const Quiz = (props: { terms: Term[]; callback: () => void }): JSX.Element => {
+  const [stage, setStage] = useState<Stage>(Stage.Menu);
+  const [quizMode, setQuizMode] = useState<QuizMode>(null!);
+  const [quizTerms, setQuizTerms] = useState<Term[]>(null!);
+  const [numIncorrect, setNumIncorrect] = useState<number>(null!);
 
-  var onCorrect = () => {
-    if (terms.length === 1) {
-      props.callback(true, numIncorrect);
+  const menuCallback = (
+    quizMode: QuizMode,
+    maxTerms: number,
+    requiredTags: string[]
+  ) => {
+    setQuizMode(quizMode);
+    let ar = [...props.terms];
+    if (requiredTags.length > 0) {
+      ar = ar.filter((term) =>
+        requiredTags.every((tag) => term.tags.includes(tag))
+      );
+    }
+    ar = _.shuffle(ar);
+    let ar2 = ar.slice(0, maxTerms);
+    setQuizTerms(ar2);
+    //TODO: empty quiz case
+    setStage(Stage.Run);
+  };
+
+  const runCallback = (finished: boolean, numIncorrect: number) => {
+    setNumIncorrect(numIncorrect);
+    if (finished) {
+      setStage(Stage.Summary);
     } else {
-      setTerms((terms) => {
-        var rv = terms.slice(1, terms.length);
-        return rv;
-      });
-      setSequence((sequence) => sequence + 1);
+      props.callback();
     }
   };
 
-  var onIncorrect = () => {
-    setTerms((terms) => {
-      var term = terms[0];
-      var rv = terms.slice(1, terms.length);
-      rv.push(term);
-      return rv;
-    });
-    setSequence((sequence) => sequence + 1);
-    setNumIncorrect((numIncorrect) => numIncorrect + 1);
+  const summaryCallback = () => {
+    props.callback();
   };
 
-  var onQuit = () => {
-    props.callback(false, numIncorrect);
+  const getUniqueTags = (): string[] => {
+    let tags: string[] = [];
+    props.terms.forEach((term: Term) => {
+      term.tags.forEach((tag: string) => {
+        if (!tags.includes(tag)) {
+          tags.push(tag);
+        }
+      });
+    });
+    return tags;
   };
 
   return (
-    <div className="Quiz">
-      <TransitionGroup component={null}>
-        <CSSTransition
-          // TODO: nodeRef (hard with functional components)
-          key={sequence}
-          classNames={{ ...transitionStyles }}
-          addEndListener={(node, done) => {
-            node.addEventListener('transitionend', done, false);
-          }}
-        >
-          <Card
-            sequence={sequence}
-            term={terms[0]}
-            onCorrect={onCorrect}
-            onIncorrect={onIncorrect}
-            quizMode={props.quizMode}
-          />
-        </CSSTransition>
-      </TransitionGroup>
-      <div>
-        props.terms.length: {props.terms.length}
-        <br />
-        terms.length: {terms.length}
-        <br />
-        numIncorrect: {numIncorrect}
-      </div>
-      <div>quizMode: {props.quizMode}</div>
-
-      <button onClick={onQuit}>Quit</button>
-    </div>
+    <>
+      {stage === Stage.Menu && (
+        <QuizMenu callback={menuCallback} uniqueTags={getUniqueTags()} />
+      )}
+      {stage === Stage.Run && (
+        <QuizRun terms={quizTerms} callback={runCallback} quizMode={quizMode} />
+      )}
+      {stage === Stage.Summary && (
+        <QuizSummary
+          terms={quizTerms}
+          callback={summaryCallback}
+          numIncorrect={numIncorrect}
+        />
+      )}
+    </>
   );
-}
+};
 
 export default Quiz;

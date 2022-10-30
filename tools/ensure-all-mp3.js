@@ -39,6 +39,7 @@ async function ensureAllMP3() {
         },
         audioConfig: { audioEncoding: 'MP3' },
       };
+      console.log('requesting: ' + term.th);
       const [response] = await textToSpeechClient.synthesizeSpeech(request);
       const writeFile = util.promisify(fs.writeFile);
       await writeFile(path, response.audioContent, 'binary');

@@ -2,12 +2,13 @@ const fs = require('fs');
 const util = require('util');
 const Vocabulary = require('./vocabulary');
 
-async function exportSpeakDeck(tag, path = 'anki.out.txt') {
+async function exportSpeakDeck(tags, path = 'anki.out.txt') {
   const vocabulary = new Vocabulary();
   await vocabulary.load();
   var data = '';
   for (const term of vocabulary.data) {
-    if (term.tags.some((e) => e === tag)) {
+    var b = tags.every((tag) => term.tags.some((e) => e === tag));
+    if (b) {
       data = data + '"';
       for (let i in term.en) {
         if (i > 0) data = data + '\r\n';
@@ -30,12 +31,13 @@ async function exportSpeakDeck(tag, path = 'anki.out.txt') {
   console.log(path + ' saved');
 }
 
-async function exportListenDeck(tag, path = 'anki.out.txt') {
+async function exportListenDeck(tags, path = 'anki.out.txt') {
   const vocabulary = new Vocabulary();
   await vocabulary.load();
   var data = '';
   for (const term of vocabulary.data) {
-    if (term.tags.some((e) => e === tag)) {
+    var b = tags.every((tag) => term.tags.some((e) => e === tag));
+    if (b) {
       data = data + '[sound:' + term.th + '.mp3]';
       data = data + ';';
       data = data + '"';
