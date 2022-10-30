@@ -1,0 +1,23 @@
+{
+  "name": "thai-flash",
+  "version": "1.0.0",
+  "description": "Thai flashcard utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipierago/thai-flash.git"
+  },
+  "author": "Ian Pieragostini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipierago/thai-flash/issues"
+  },
+  "homepage": "https://github.com/ipierago/thai-flash#readme",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^4.0.3",
+    "dotenv": "^16.0.2"
+  }
+}
