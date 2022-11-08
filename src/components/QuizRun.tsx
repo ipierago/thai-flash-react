@@ -3,10 +3,7 @@ import Card from './Card';
 import { Term } from '../Types';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
 import { QuizMode } from './QuizTypes';
-import {
-  XMarkIcon,
-  ArrowRightOnRectangleIcon,
-} from '@heroicons/react/24/solid';
+import { ArrowRightOnRectangleIcon } from '@heroicons/react/24/solid';
 
 type QuizProps = {
   terms: Term[];

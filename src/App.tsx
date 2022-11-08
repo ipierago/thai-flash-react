@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react';
+import { useState } from 'react';
 import Quiz from './components/Quiz';
 import MainMenu from './components/MainMenu';
 
