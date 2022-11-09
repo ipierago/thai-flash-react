@@ -345,7 +345,7 @@
     "th": "ส่วนใหญ่",
     "ipa": "sùanˑyày",
     "en": [
-      "mostly"
+      "mostly, most of"
     ],
     "tags": [
       "kruu bank",
@@ -5155,7 +5155,9 @@
       "duke",
       "journey 2",
       "chapter 6",
-      "core vocab"
+      "core vocab",
+      "kruu bank",
+      "9 nov 2022"
     ]
   },
   {
@@ -6229,7 +6231,7 @@
   {
     "th": "นอกจาก",
     "en": [
-      "apart from;except for;other than (preposition)"
+      "apart from; except for; other than, in addition to"
     ],
     "ipa": "nɔ̂ɔkˑcàak",
     "tags": [
@@ -8144,7 +8146,7 @@
   {
     "th": "รอบคอบ",
     "en": [
-      "[to] be cautious;be circumspect;be careful"
+      "careful in a thoughtful way, used to describe a person"
     ],
     "ipa": "rɔ̂ɔpˑkhɔ̂ɔp",
     "tags": [
@@ -8152,6 +8154,193 @@
       "journey 2",
       "chapter 10",
       "word builder"
+    ]
+  },
+  {
+    "th": "ระหว่าง",
+    "en": [
+      "between/during"
+    ],
+    "ipa": "ráˑwàaŋ",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "เหตุผล",
+    "en": [
+      "reason"
+    ],
+    "ipa": "hèetˑphǒn",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "แม่น้ำ",
+    "en": [
+      "river"
+    ],
+    "ipa": "mɛ̂ɛˑnám",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "เพื่อนบ้าน",
+    "en": [
+      "neighborhood, neighbor"
+    ],
+    "ipa": "phʉ̂anˑbâan",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "เพลง",
+    "en": [
+      "music"
+    ],
+    "ipa": "phleeŋ",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "รถสาธารณะ",
+    "en": [
+      "public transportation (general)"
+    ],
+    "ipa": "rót sǎaˑthaaˑráˑná",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "รถประจำทาง",
+    "en": [
+      "public transportation (bus)"
+    ],
+    "ipa": "rótˑpràˑcamˑthaaŋ",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "แล้วแต่",
+    "en": [
+      "depends on"
+    ],
+    "ipa": "lɛ́ɛwˑtɛ̀ɛ",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "สนใจ",
+    "en": [
+      "[to] be interested (in)"
+    ],
+    "ipa": "sǒnˑcay",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "กระดุม",
+    "en": [
+      "buttons"
+    ],
+    "ipa": "kràˑdum",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "ไซส์",
+    "en": [
+      "size"
+    ],
+    "ipa": "say",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "พอดี",
+    "en": [
+      "fit, exactly;just enough;just right"
+    ],
+    "ipa": "phɔɔˑdii",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "ลดได้ไหม",
+    "en": [
+      "can you reduce?"
+    ],
+    "ipa": "lót dâay mǎy",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "เงินเดือน",
+    "en": [
+      "salary"
+    ],
+    "ipa": "ŋənˑdʉan",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "ย้ายไป",
+    "en": [
+      "to move to"
+    ],
+    "ipa": "yáay pay",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "ทำงานหนัก",
+    "en": [
+      "to work hard"
+    ],
+    "ipa": "thamˑŋaanˑnàk",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
+    ]
+  },
+  {
+    "th": "เกาหลีใต้",
+    "en": [
+      "South Korea"
+    ],
+    "ipa": "kawˑlǐiˑtâay",
+    "tags": [
+      "kruu bank",
+      "9 nov 2022"
     ]
   }
 ]
