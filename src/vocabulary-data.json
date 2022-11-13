@@ -1992,7 +1992,9 @@
       "journey 2",
       "chapter 4",
       "core vocab",
-      "chapter 6"
+      "chapter 6",
+      "journey 1",
+      "chapter 2"
     ]
   },
   {
@@ -2531,7 +2533,10 @@
       "duke",
       "journey 2",
       "chapter 4",
-      "word builder"
+      "word builder",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
     ]
   },
   {
@@ -7098,7 +7103,9 @@
       "duke",
       "journey 2",
       "chapter 8",
-      "core vocab"
+      "core vocab",
+      "journey 1",
+      "chapter 2"
     ]
   },
   {
@@ -8340,7 +8347,11 @@
     "ipa": "kawˑlǐiˑtâay",
     "tags": [
       "kruu bank",
-      "9 nov 2022"
+      "9 nov 2022",
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
     ]
   },
   {
@@ -8517,6 +8528,526 @@
     "tags": [
       "kruu bank",
       "11 nov 2022"
+    ]
+  },
+  {
+    "th": "ฉัน",
+    "en": [
+      "I (mostly female)"
+    ],
+    "ipa": "chǎn",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "คุณ",
+    "en": [
+      "you (polite), (honorific title) Mr. Mrs."
+    ],
+    "ipa": "khun",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เขา",
+    "en": [
+      "he, she, they"
+    ],
+    "ipa": "khǎw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ชื่อ",
+    "en": [
+      "name"
+    ],
+    "ipa": "chʉ̂ʉ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ชื่อเล่น",
+    "en": [
+      "nickname"
+    ],
+    "ipa": "chʉ̂ʉˑlên",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "นามสกุล",
+    "en": [
+      "surname"
+    ],
+    "ipa": "naamˑsaˑkun",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "มาจาก",
+    "en": [
+      "come from"
+    ],
+    "ipa": "maaˑcàak",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ประเทศ",
+    "en": [
+      "country"
+    ],
+    "ipa": "pràˑthêet",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "จังหวัด",
+    "en": [
+      "province, prefecture"
+    ],
+    "ipa": "caŋˑwàt",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เมือง",
+    "en": [
+      "city, town"
+    ],
+    "ipa": "mʉaŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กรุงเทพฯ",
+    "en": [
+      "Bangkok"
+    ],
+    "ipa": "kruŋˑthêep",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เป็น",
+    "en": [
+      "to be (a person, thing)"
+    ],
+    "ipa": "pen",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สบายดีไหม",
+    "en": [
+      "How are you?"
+    ],
+    "ipa": "saˑbaay dii mǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สบายดี",
+    "en": [
+      "I'm fine"
+    ],
+    "ipa": "saˑbaay dii",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ก็เรื่อยๆ",
+    "en": [
+      "so-so, uneventful"
+    ],
+    "ipa": "kɔ̂ɔ rʉ̂ayˑrʉ̂ay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไม่สบาย",
+    "en": [
+      "i'm not fine"
+    ],
+    "ipa": "mâyˑsaˑbaay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เป็นยังไงบ้าง",
+    "en": [
+      "How's it going?"
+    ],
+    "ipa": "pen yaŋˑŋay bâaŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไปไหน",
+    "en": [
+      "Where are you going?"
+    ],
+    "ipa": "pay nǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไปธุระ",
+    "en": [
+      "going to run errands"
+    ],
+    "ipa": "pay thúˑrá",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไปเที่ยว",
+    "en": [
+      "going out, going travelling"
+    ],
+    "ipa": "payˑthîaw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไม่ได้ไปไหน",
+    "en": [
+      "not going anywhere"
+    ],
+    "ipa": "mâyˑdây pay nǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไปก่อนนะ",
+    "en": [
+      "I'm off now, I'm leaving"
+    ],
+    "ipa": "pay kɔ̀ɔn ná",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "แล้วเจอกันใหม่",
+    "en": [
+      "See you later"
+    ],
+    "ipa": "lɛ́ɛw cəəˑkan mày",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "นักเรียน",
+    "en": [
+      "student"
+    ],
+    "ipa": "nákˑrian",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไม่",
+    "en": [
+      "no, not"
+    ],
+    "ipa": "mây",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อะไร",
+    "en": [
+      "what?"
+    ],
+    "ipa": "àˑray",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไทย",
+    "en": [
+      "Thai"
+    ],
+    "ipa": "thay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ลาว",
+    "en": [
+      "Lao"
+    ],
+    "ipa": "laaw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "มาเลเซีย",
+    "en": [
+      "Malaysia"
+    ],
+    "ipa": "maa lee sia",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "กัมพูชา",
+    "en": [
+      "Cambodia"
+    ],
+    "ipa": "kamˑphuuˑchaa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "พม่า",
+    "en": [
+      "Myanmar (Burma)"
+    ],
+    "ipa": "phaˑmâa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สิงคโปร์",
+    "en": [
+      "Singapore"
+    ],
+    "ipa": "sǐŋˑkhaˑpoo",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ญี่ปุ่น",
+    "en": [
+      "Japan"
+    ],
+    "ipa": "yîiˑpùn",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "จีน",
+    "en": [
+      "China"
+    ],
+    "ipa": "ciin",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "อังกฤษ",
+    "en": [
+      "England"
+    ],
+    "ipa": "aŋkrìt",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "อเมริกา",
+    "en": [
+      "America"
+    ],
+    "ipa": "aˑmeeˑríˑkaa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ออสเตรเลีย",
+    "en": [
+      "Australia"
+    ],
+    "ipa": "ɔ̀ɔtˑtreeˑlia",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ฝรั่งเศส",
+    "en": [
+      "France"
+    ],
+    "ipa": "faˑràŋˑsèet",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เยอรมัน",
+    "en": [
+      "German"
+    ],
+    "ipa": "yəəˑraˑman",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สเปน",
+    "en": [
+      "Spain"
+    ],
+    "ipa": "saˑpeen",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 2",
+      "word builder"
     ]
   }
 ]
