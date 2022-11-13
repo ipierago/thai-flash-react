@@ -4865,7 +4865,11 @@
     "ipa": "cɔ̀ɔt",
     "tags": [
       "kruu bank",
-      "19 oct 2022"
+      "19 oct 2022",
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
     ]
   },
   {
@@ -5806,7 +5810,9 @@
       "duke",
       "journey 2",
       "chapter 7",
-      "core vocab"
+      "core vocab",
+      "journey 1",
+      "chapter 3"
     ]
   },
   {
@@ -6108,7 +6114,10 @@
       "duke",
       "journey 2",
       "chapter 7",
-      "word builder"
+      "word builder",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
     ]
   },
   {
@@ -9047,6 +9056,448 @@
       "duke",
       "journey 1",
       "chapter 2",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ไป",
+    "en": [
+      "to go"
+    ],
+    "ipa": "pay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "มา",
+    "en": [
+      "to come"
+    ],
+    "ipa": "maa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อยู่",
+    "en": [
+      "to be (at a place)"
+    ],
+    "ipa": "yùu",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ที่ไหน",
+    "en": [
+      "where?"
+    ],
+    "ipa": "thîiˑnǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "บ้าน",
+    "en": [
+      "home, house"
+    ],
+    "ipa": "bâan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "โรงเรียน",
+    "en": [
+      "school"
+    ],
+    "ipa": "rooŋˑrian",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "บริษัท",
+    "en": [
+      "company"
+    ],
+    "ipa": "bɔɔˑríˑsàt",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ที่นี่",
+    "en": [
+      "here"
+    ],
+    "ipa": "thîiˑnîi",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "แถวไหน",
+    "en": [
+      "where about?"
+    ],
+    "ipa": "thɛ̌ɛw nǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "แถว",
+    "en": [
+      "around..., in the area of..."
+    ],
+    "ipa": "thɛ̌ɛw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ทางไหน",
+    "en": [
+      "which way?"
+    ],
+    "ipa": "thaaŋ nǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ประมาณ",
+    "en": [
+      "about, approximately"
+    ],
+    "ipa": "pràˑmaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "แล้ว(ก็)",
+    "en": [
+      "and then"
+    ],
+    "ipa": "lɛ́ɛwˑ(kɔ̂ɔ)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไหม",
+    "en": [
+      "[yes-no question particle]"
+    ],
+    "ipa": "mǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใช่ไหม",
+    "en": [
+      "[affirmative question pargticle]"
+    ],
+    "ipa": "châyˑmǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใช่",
+    "en": [
+      "yes, correct"
+    ],
+    "ipa": "chây",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไม่ใช่",
+    "en": [
+      "no, incorrect"
+    ],
+    "ipa": "mâyˑchây",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ใช้(มิเตอร์)",
+    "en": [
+      "use (meter)"
+    ],
+    "ipa": "cháy (míd tɛ̌ɛr)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เลี้ยวซ้าย",
+    "en": [
+      "turn left"
+    ],
+    "ipa": "líawˑsáay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "เลี้ยวขวา",
+    "en": [
+      "turn right"
+    ],
+    "ipa": "líawˑkhwǎa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ตรงไป",
+    "en": [
+      "go straight"
+    ],
+    "ipa": "troŋ pay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "กลับรถ",
+    "en": [
+      "U-turn"
+    ],
+    "ipa": "klàpˑrót",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ชิดซ้าย",
+    "en": [
+      "keep left"
+    ],
+    "ipa": "chít sáay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ชิดขวา",
+    "en": [
+      "keep right"
+    ],
+    "ipa": "chítˑkhwǎa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ขึ้น",
+    "en": [
+      "up;upward, [to] enter;get on;get in"
+    ],
+    "ipa": "khʉ̂n",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ลง",
+    "en": [
+      "down; downward, [to] get off;get out"
+    ],
+    "ipa": "loŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ถนน",
+    "en": [
+      "road"
+    ],
+    "ipa": "thaˑnǒn",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ซอย",
+    "en": [
+      "alley"
+    ],
+    "ipa": "sɔɔy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สะพาน",
+    "en": [
+      "bridge"
+    ],
+    "ipa": "sàˑphaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ทางด่วน",
+    "en": [
+      "expressway;superhighway"
+    ],
+    "ipa": "thaaŋˑdùan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ไฟแดง",
+    "en": [
+      "red light"
+    ],
+    "ipa": "fayˑdɛɛŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สี่แยก",
+    "en": [
+      "intersection (4 way)"
+    ],
+    "ipa": "sìiˑyɛ̂ɛk",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "สามแยก",
+    "en": [
+      "intersection (3 way)"
+    ],
+    "ipa": "sǎam yɛ̂ɛk",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
+      "word builder"
+    ]
+  },
+  {
+    "th": "หยุด",
+    "en": [
+      "[to] stop"
+    ],
+    "ipa": "yùt",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 3",
       "word builder"
     ]
   }
