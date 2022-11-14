@@ -20,16 +20,24 @@ async function main() {
   /*
   await addNewTerms('gitignore/new-terms.txt', [
     'duke',
-    'journey 2',
-    'chapter 10',
+    'journey 1',
+    'chapter 4',
     'word builder',
   ]);
   */
   //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '4 nov 2022']);
   //await mergeQuizlet();
   await ensureAllMP3();
-  //await anki.exportListenDeck(['chapter 9'], 'gitignore/anki.listen.txt');
-  //await anki.exportSpeakDeck(['chapter 9'], 'gitignore/anki.speak.txt');
+  /*
+  await anki.exportListenDeck(
+    ['journey 1', 'chapter 3'],
+    'gitignore/anki.listen.txt'
+  );
+  await anki.exportSpeakDeck(
+    ['journey 1', 'chapter 3'],
+    'gitignore/anki.speak.txt'
+  );
+  */
   //await exportCSV('gitignore/csv.txt', 'duke');
 }
 
