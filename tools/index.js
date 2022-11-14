@@ -21,15 +21,23 @@ async function main() {
   await addNewTerms('gitignore/new-terms.txt', [
     'duke',
     'journey 1',
-    'chapter 3',
+    'chapter 4',
     'word builder',
   ]);
   */
   //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '4 nov 2022']);
   //await mergeQuizlet();
-  //await ensureAllMP3();
-  //await anki.exportListenDeck(['11 nov 2022'], 'gitignore/anki.listen.txt');
-  //await anki.exportSpeakDeck(['11 nov 2022'], 'gitignore/anki.speak.txt');
+  await ensureAllMP3();
+  /*
+  await anki.exportListenDeck(
+    ['journey 1', 'chapter 3'],
+    'gitignore/anki.listen.txt'
+  );
+  await anki.exportSpeakDeck(
+    ['journey 1', 'chapter 3'],
+    'gitignore/anki.speak.txt'
+  );
+  */
   //await exportCSV('gitignore/csv.txt', 'duke');
 }
 
