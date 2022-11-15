@@ -21,7 +21,7 @@ async function main() {
   await addNewTerms('gitignore/new-terms.txt', [
     'duke',
     'journey 1',
-    'chapter 4',
+    'chapter 5',
     'word builder',
   ]);
   */

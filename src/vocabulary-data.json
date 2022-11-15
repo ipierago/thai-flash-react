@@ -4885,7 +4885,11 @@
     "ipa": "laanˑcɔ̀ɔtˑrót",
     "tags": [
       "kruu bank",
-      "19 oct 2022"
+      "19 oct 2022",
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
     ]
   },
   {
@@ -9141,7 +9145,9 @@
       "duke",
       "journey 1",
       "chapter 3",
-      "core vocab"
+      "core vocab",
+      "chapter 5",
+      "word builder"
     ]
   },
   {
@@ -9154,7 +9160,9 @@
       "duke",
       "journey 1",
       "chapter 3",
-      "core vocab"
+      "core vocab",
+      "chapter 5",
+      "word builder"
     ]
   },
   {
@@ -10233,6 +10241,526 @@
       "duke",
       "journey 1",
       "chapter 4",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ตรงไหน",
+    "en": [
+      "where (exactly)?"
+    ],
+    "ipa": "troŋˑnǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ตรง",
+    "en": [
+      "to be exactly at..."
+    ],
+    "ipa": "troŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "บันได",
+    "en": [
+      "stairs, staircase"
+    ],
+    "ipa": "banˑday",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "บันไดเลื่อน",
+    "en": [
+      "escalator"
+    ],
+    "ipa": "banˑday lʉ̂an",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ลิฟท์",
+    "en": [
+      "lift, elevator"
+    ],
+    "ipa": "lip",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ชั้น...",
+    "en": [
+      "...foor"
+    ],
+    "ipa": "chán...",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ถึง",
+    "en": [
+      "to arrive at..."
+    ],
+    "ipa": "thʉ̌ŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เดิน",
+    "en": [
+      "to walk"
+    ],
+    "ipa": "dəən",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ทางซ้าย",
+    "en": [
+      "to the left, on the left hand side"
+    ],
+    "ipa": "thaaŋˑsáay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ทางขวา",
+    "en": [
+      "to the right, on the right hand side"
+    ],
+    "ipa": "thaaŋˑkhwǎa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ห้อง",
+    "en": [
+      "room"
+    ],
+    "ipa": "hɔ̂ŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ปากกา",
+    "en": [
+      "pen"
+    ],
+    "ipa": "pàakˑkaa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กระเป๋า",
+    "en": [
+      "bag, backpack, case"
+    ],
+    "ipa": "kràˑpǎw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "หนังสือ",
+    "en": [
+      "book"
+    ],
+    "ipa": "naŋˑsʉ̌ʉ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "มือถือ",
+    "en": [
+      "mobile (phone)"
+    ],
+    "ipa": "mʉʉˑthʉ̌ʉ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "โต๊ะ",
+    "en": [
+      "table"
+    ],
+    "ipa": "tó",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เก้าอี้",
+    "en": [
+      "chair"
+    ],
+    "ipa": "kâwˑîi",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ไหน",
+    "en": [
+      "which?"
+    ],
+    "ipa": "nǎy",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "โน่น",
+    "en": [
+      "that over there"
+    ],
+    "ipa": "nôon",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "คุณจะเห็น",
+    "en": [
+      "you will see"
+    ],
+    "ipa": "khun cà hěn",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "(ข้าง)บน",
+    "en": [
+      "no top, above, upstairs"
+    ],
+    "ipa": "(khâaŋ) bon",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)ใต้",
+    "en": [
+      "under, underneath, beneath"
+    ],
+    "ipa": "(khâaŋ) tâay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)หน้า",
+    "en": [
+      "in front"
+    ],
+    "ipa": "(khâaŋ) nâa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)หลัง",
+    "en": [
+      "behind"
+    ],
+    "ipa": "(khâaŋ) lǎŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)ใน",
+    "en": [
+      "inside"
+    ],
+    "ipa": "(khâaŋ)nay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)นอก",
+    "en": [
+      "outside"
+    ],
+    "ipa": "(khâaŋ) nɔ̂ɔk",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ข้างซ้าย",
+    "en": [
+      "on/to the left"
+    ],
+    "ipa": "khâaŋ sáay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "(ข้าง)ข้าง",
+    "en": [
+      "on/to the side/ next to"
+    ],
+    "ipa": "(khâaŋ) khâaŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ข้างขวา",
+    "en": [
+      "on/to the right"
+    ],
+    "ipa": "khâaŋ khwǎa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ตรงข้ามกับ...",
+    "en": [
+      "opposite of / across from..."
+    ],
+    "ipa": "troŋˑkhâam kàp...",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ระหว่าง... กับ...",
+    "en": [
+      "between ... and ..."
+    ],
+    "ipa": "ráˑwàaŋ ... kàp ...",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ซูเปอร์",
+    "en": [
+      "supermarket"
+    ],
+    "ipa": "Sū pexr̒",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ร้านอาหาร",
+    "en": [
+      "restaurant"
+    ],
+    "ipa": "ráanˑaaˑhǎan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "แผนกรองเท้า",
+    "en": [
+      "shoe department"
+    ],
+    "ipa": "phaˑnɛ̀ɛk rɔɔŋˑtháaw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ฟิตเนส",
+    "en": [
+      "gym/fitness center"
+    ],
+    "ipa": "Fitnes̄",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ธนาคาร",
+    "en": [
+      "bank"
+    ],
+    "ipa": "thaˑnaaˑkhaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ไปรษณีย์",
+    "en": [
+      "post office"
+    ],
+    "ipa": "prayˑsaˑnii",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "โรงหนัง",
+    "en": [
+      "cinema"
+    ],
+    "ipa": "rooŋˑnǎŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ห้องน้ำ",
+    "en": [
+      "bathroom"
+    ],
+    "ipa": "hɔ̂ŋˑnáam",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
+      "word builder"
+    ]
+  },
+  {
+    "th": "ประชาสัมพันธ์",
+    "en": [
+      "public relations (information desk)"
+    ],
+    "ipa": "pràˑchaaˑsǎmˑphan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 5",
       "word builder"
     ]
   }
