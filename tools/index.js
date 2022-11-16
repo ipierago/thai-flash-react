@@ -25,20 +25,20 @@ async function main() {
     'word builder',
   ]);
   */
-  //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '4 nov 2022']);
+  //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '16 nov 2022']);
   //await mergeQuizlet();
-  await ensureAllMP3();
-  /*
+  //await ensureAllMP3();
+  /**/
   await anki.exportListenDeck(
-    ['journey 1', 'chapter 3'],
+    ['kruu bank', '16 nov 2022'],
     'gitignore/anki.listen.txt'
   );
   await anki.exportSpeakDeck(
-    ['journey 1', 'chapter 3'],
+    ['kruu bank', '16 nov 2022'],
     'gitignore/anki.speak.txt'
   );
-  */
-  //await exportCSV('gitignore/csv.txt', 'duke');
+  /**/
+  await exportCSV('gitignore/csv.txt', 'duke');
 }
 
 main()
