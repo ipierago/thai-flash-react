@@ -4833,7 +4833,11 @@
     "ipa": "phàan",
     "tags": [
       "kruu bank",
-      "19 oct 2022"
+      "19 oct 2022",
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
     ]
   },
   {
@@ -9396,7 +9400,9 @@
       "duke",
       "journey 1",
       "chapter 3",
-      "word builder"
+      "word builder",
+      "chapter 6",
+      "core vocab"
     ]
   },
   {
@@ -9409,7 +9415,9 @@
       "duke",
       "journey 1",
       "chapter 3",
-      "word builder"
+      "word builder",
+      "chapter 6",
+      "core vocab"
     ]
   },
   {
@@ -10916,6 +10924,461 @@
     "tags": [
       "kruu bank",
       "16 nov 2022"
+    ]
+  },
+  {
+    "th": "นั่ง",
+    "en": [
+      "to sit, to take (transport)"
+    ],
+    "ipa": "nâŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "รถไฟ",
+    "en": [
+      "train"
+    ],
+    "ipa": "rótˑfay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สถานี",
+    "en": [
+      "station"
+    ],
+    "ipa": "saˑthǎaˑnii",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "รถเมล์",
+    "en": [
+      "(city) bus"
+    ],
+    "ipa": "rótˑmee",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ป้ายรถเมล์",
+    "en": [
+      "bus stop"
+    ],
+    "ipa": "pâayˑrótˑmee",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "มอเตอร์ไซค์(รับจ้าง)",
+    "en": [
+      "motorbike taxi"
+    ],
+    "ipa": "mɔɔˑtə̂əˑsay (rápˑcâaŋ)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "วินมอเตอร์ไซค์",
+    "en": [
+      "motorbike taxi stand"
+    ],
+    "ipa": "win mɔɔˑtə̂əˑsay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เรือ",
+    "en": [
+      "boat"
+    ],
+    "ipa": "rʉa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ท่าเรือ",
+    "en": [
+      "pier"
+    ],
+    "ipa": "thâaˑrʉa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "เครื่องบิน",
+    "en": [
+      "plane"
+    ],
+    "ipa": "khrʉ̂aŋˑbin",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สนามบิน",
+    "en": [
+      "airport"
+    ],
+    "ipa": "saˑnǎamˑbin",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ต่อ(รถ)",
+    "en": [
+      "to change (transport)"
+    ],
+    "ipa": "tɔ̀ɔ (rót)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ขับรถ",
+    "en": [
+      "to drive a car"
+    ],
+    "ipa": "khàpˑrót",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "ขี่มอเตอร์ไซค์",
+    "en": [
+      "to ride a motorbike"
+    ],
+    "ipa": "khìi mɔɔˑtə̂əˑsay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "กลับ(บ้าน)",
+    "en": [
+      "to return go back (home)"
+    ],
+    "ipa": "klàp (bâan)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "สาย...",
+    "en": [
+      "... route, ... line"
+    ],
+    "ipa": "sǎay...",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "อย่างไร (ยังไง)",
+    "en": [
+      "how (how)"
+    ],
+    "ipa": "yàaŋˑray (yaŋˑŋay)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "core vocab"
+    ]
+  },
+  {
+    "th": "รถไฟฟ้า",
+    "en": [
+      "sky train"
+    ],
+    "ipa": "rótˑfayˑfáa",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "รถไฟใต้ดิน",
+    "en": [
+      "subway"
+    ],
+    "ipa": "rótˑfayˑtâyˑdin",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "แอร์พอร์ตลิงค์",
+    "en": [
+      "airport link"
+    ],
+    "ipa": "ɛɛ phɔ̀ɔt líŋ",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "รถบัส",
+    "en": [
+      "bus (long distance)"
+    ],
+    "ipa": "rótˑbát",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "รถตู้",
+    "en": [
+      "minivan"
+    ],
+    "ipa": "rótˑtûu",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "สองแถว",
+    "en": [
+      "minibus (two rows)"
+    ],
+    "ipa": "sɔ̌ɔŋ thɛ̌ɛw",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "รถ",
+    "en": [
+      "car"
+    ],
+    "ipa": "rót",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "มอเตอร์ไซค์",
+    "en": [
+      "motorcycle"
+    ],
+    "ipa": "mɔɔˑtə̂əˑsay",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "จักรยาน",
+    "en": [
+      "bicycle"
+    ],
+    "ipa": "càkˑkraˑyaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "สวน(สาธารณะ)",
+    "en": [
+      "public park"
+    ],
+    "ipa": "sǔan (sǎaˑthaaˑráˑná)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "ตลาด",
+    "en": [
+      "market"
+    ],
+    "ipa": "taˑlàat",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "วัด",
+    "en": [
+      "temple"
+    ],
+    "ipa": "wát",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "โรงพยาบาล",
+    "en": [
+      "hospital"
+    ],
+    "ipa": "rooŋˑphaˑyaaˑbaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "โรงแรม",
+    "en": [
+      "hotel"
+    ],
+    "ipa": "rooŋˑrɛɛm",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "สถานีตำรวจ",
+    "en": [
+      "police station"
+    ],
+    "ipa": "saˑthǎaˑniiˑtamˑrùat",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "ห้าง(สรรพสินค้า)",
+    "en": [
+      "mall"
+    ],
+    "ipa": "hâaŋ (sàpˑphaˑsǐnˑkháa)",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "อาคาร",
+    "en": [
+      "building (opt 1)"
+    ],
+    "ipa": "aaˑkhaan",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
+    ]
+  },
+  {
+    "th": "ตึก",
+    "en": [
+      "building (opt 2)"
+    ],
+    "ipa": "tʉ̀k",
+    "tags": [
+      "duke",
+      "journey 1",
+      "chapter 6",
+      "world builder"
     ]
   }
 ]
