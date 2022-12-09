@@ -910,7 +910,7 @@
   {
     "th": "น่าจะ",
     "en": [
-      "should;had better"
+      "should;had better (not strong)"
     ],
     "ipa": "nâaˑcà",
     "tags": [
@@ -2991,7 +2991,7 @@
   {
     "th": "ควร",
     "en": [
-      "should"
+      "should (strong suggestion)"
     ],
     "ipa": "khuan",
     "tags": [
@@ -4362,7 +4362,8 @@
     "ipa": "payˑhǎa",
     "tags": [
       "kruu bank",
-      "17 oct 2022"
+      "17 oct 2022",
+      "9 dec 2022"
     ]
   },
   {
@@ -11924,6 +11925,72 @@
     "tags": [
       "kruu bank",
       "7 dec 2022"
+    ]
+  },
+  {
+    "th": "เกือบทุกวัน",
+    "en": [
+      "almost every day"
+    ],
+    "ipa": "kʉ̀ap thúkˑwan",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
+    ]
+  },
+  {
+    "th": "เกือบ",
+    "en": [
+      "nearly;almost;shortly"
+    ],
+    "ipa": "kʉ̀ap",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
+    ]
+  },
+  {
+    "th": "สุขภาพ",
+    "en": [
+      "health;wellbeing;good condition"
+    ],
+    "ipa": "sùkˑkhaˑphâap",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
+    ]
+  },
+  {
+    "th": "ไม่งั้น",
+    "en": [
+      "otherwise (option 1)"
+    ],
+    "ipa": "mâyˑŋán",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
+    ]
+  },
+  {
+    "th": "ไม่อย่างนั้น",
+    "en": [
+      "otherwise (option 2)"
+    ],
+    "ipa": "mâyˑyàaŋˑnán",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
+    ]
+  },
+  {
+    "th": "หิมะ",
+    "en": [
+      "snow"
+    ],
+    "ipa": "hìˑmá",
+    "tags": [
+      "kruu bank",
+      "9 dec 2022"
     ]
   }
 ]
