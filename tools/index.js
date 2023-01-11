@@ -25,16 +25,16 @@ async function main() {
     'world builder',
   ]);
   */
-  //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '16 dec 2022']);
+  //await addNewTerms('gitignore/new-terms.txt', ['kruu bank', '11 jan 2022']);
   //await mergeQuizlet();
   //await ensureAllMP3();
   /*
   await anki.exportListenDeck(
-    ['kruu bank', '16 dec 2022'],
+    ['kruu bank', '11 jan 2022'],
     'gitignore/anki.listen.txt'
   );
   await anki.exportSpeakDeck(
-    ['kruu bank', '16 dec 2022'],
+    ['kruu bank', '11 jan 2022'],
     'gitignore/anki.speak.txt'
   );
   */
